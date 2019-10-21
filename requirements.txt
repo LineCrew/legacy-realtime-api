@@ -13,7 +13,7 @@ greenlet==0.4.12
 idna==2.6
 kombu==4.1.0
 multidict==3.3.2
-python-engineio==2.0.1
+python-engineio==3.8.2.post1
 python-socketio==1.8.3
 pytz==2018.3
 redis==2.10.6
